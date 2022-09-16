@@ -4,6 +4,7 @@
 //    Description: This Script puts a predefined Effect with a predefined
 //                 preset on every selected VideoEvent.
 //    Usage: Change Line 23 and Line 25 according to your needs.
+//           If you need help figuring out the effect/preset names: Check out this Video: https://youtu.be/Dx4jZ1o9qbQ
 //*******************************************************************
 
 using System;
